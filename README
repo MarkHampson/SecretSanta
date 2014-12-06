@@ -1,0 +1,7 @@
+Secret Santa mailer for the family
+
+SecretMail.java - takes an input file from the command line, assigns 
+    everybody's Santa, and then emails the wishlists.
+
+Santa.java - Class that defines everybody's email, wishlist, etc.
+
